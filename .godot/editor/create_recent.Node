@@ -1,0 +1,8 @@
+VisibleOnScreenNotifier2D
+AnimationPlayer
+CollisionShape2D
+Sprite2D
+Area2D
+StaticBody2D
+AnimatedSprite2D
+CharacterBody2D
