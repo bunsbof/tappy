@@ -25,3 +25,7 @@ func spawn_pipes() -> void:
 
 func _on_spawn_timer_timeout():
 	spawn_pipes()
+
+
+func _on_plane_died():
+	print("Died")

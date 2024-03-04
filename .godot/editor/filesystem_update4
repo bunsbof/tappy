@@ -6,3 +6,5 @@ res://scenes/barrier/barrier.tscn
 res://scenes/pipe/pipe.tscn
 res://scenes/laser/laser.tscn
 res://singletons/game_manager.gd
+res://scenes/plane/plane.gd
+res://scenes/game/game.gd
