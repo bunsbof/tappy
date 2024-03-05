@@ -1,6 +1,7 @@
 extends Node2D
 
 const SCROLL_SPEED: float = 120.0
+@onready var score_sound = $ScoreSound
 
 
 
@@ -24,5 +25,6 @@ func _on_pipe_body_entered(body):
 		body.die()
 
 func _on_laser_body_exited(body):
-	if body.is_in_group(GameManager.GROUP_PLAYER)==true:	
+	if body.is_in_group(GameManager.GROUP_PLAYER)==true:
+		score_sound.play()
 		ScoreManager.increment_score()
