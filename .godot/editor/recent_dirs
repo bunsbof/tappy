@@ -1,6 +1,7 @@
-res://assets
 res://assets/fonts
-res://hud
+res://scenes/game_over
+res://assets
+res://scenes/main
 res://singletons
 res://scenes/pipes
 res://scenes/laser

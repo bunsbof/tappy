@@ -1,3 +1,17 @@
 res://hud/hud.tscn
 res://scenes/game/game.tscn
 res://hud/hud.gd
+res://singletons/signal_manager.gd
+res://singletons/score_manager.gd
+res://scenes/plane/plane.gd
+res://scenes/game/game.gd
+res://scenes/main/main.tscn
+res://assets/sh_48_red.tres
+res://assets/sh_72_red.tres
+res://assets/sh_48_white.tres
+res://assets/sh_24_red.tres
+res://scenes/main/main.gd
+res://singletons/game_manager.gd
+res://scenes/game_over/game_over.tscn
+res://scenes/game_over/game_over.gd
+res://scenes/hud/hud.tscn
