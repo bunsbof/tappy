@@ -1,0 +1,10 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://bn7aaqyqoxhhp"]
+
+[ext_resource type="FontFile" uid="uid://r6i0altckft" path="res://assets/fonts/Skranji-Bold.ttf" id="1_1wf6t"]
+
+[resource]
+font = ExtResource("1_1wf6t")
+font_size = 48
+font_color = Color(0.909804, 0.321569, 0.172549, 1)
+outline_color = Color(0.807843, 0.407843, 0, 1)
+shadow_color = Color(0.819608, 0.0588235, 0, 0)

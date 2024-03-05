@@ -2,8 +2,8 @@ extends CharacterBody2D
 
 signal on_plane_died
 
-const GRAVITY: float = 880.0
-const 	POWER: float = -400.0
+const GRAVITY: float = 1500.0
+const 	POWER: float = -500.0
 
 @onready var sprite: AnimatedSprite2D = $Sprite
 @onready var animation_player: AnimationPlayer = $AnimationPlayer

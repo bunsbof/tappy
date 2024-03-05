@@ -11,6 +11,7 @@ extends Node2D
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	ScoreManager.set_score(0)
 	spawn_pipes()
 
 
