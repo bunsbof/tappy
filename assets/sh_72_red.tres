@@ -1,10 +1,10 @@
 [gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://b3bhyll2t8huw"]
 
-[ext_resource type="FontFile" uid="uid://r6i0altckft" path="res://assets/fonts/Skranji-Bold.ttf" id="1_j54j4"]
+[ext_resource type="FontFile" uid="uid://cqxv1vkyegeel" path="res://assets/fonts/LuckiestGuy-Regular.ttf" id="1_t6pww"]
 
 [resource]
 line_spacing = -10.0
-font = ExtResource("1_j54j4")
+font = ExtResource("1_t6pww")
 font_size = 72
 font_color = Color(1, 0.0784314, 0.286275, 1)
 outline_color = Color(0.807843, 0.407843, 0, 1)
